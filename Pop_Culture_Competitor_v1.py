@@ -505,7 +505,7 @@ def third_3():
         output_text['text'] = 'Index Error: Please select an option to view'
     
 #Importing the image file
-sale_image = PhotoImage(file = 'file66.gif')
+sale_image = PhotoImage(file = 'image2.gif')
 Label(main_window, bg = 'seagreen', image = sale_image).\
                  grid(row = 1, column = 1, columnspan = 2)
 
