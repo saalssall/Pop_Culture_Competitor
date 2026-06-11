@@ -12,7 +12,7 @@
 #  Put your student number here as an integer and your name as a
 #  character string:
 #
-student_number = 12217301
+
 student_name   = 'Hamidullah Rezae' 
 #
 #  NB: Files submitted without a completed copy of this statement
